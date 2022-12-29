@@ -17,6 +17,7 @@
 - ⚡️ Fun-Fact: I have a degree in computer science;
 
 **🌱 I’m currently learning **
+
 <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code><code><img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go"/></code><code><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js"/></code><code><img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react"/></code><code><img src="https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs"/></code>
 
 **📫 How to reach me:**
