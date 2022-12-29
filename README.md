@@ -27,6 +27,7 @@
 - **E-mail：**2489964425@qq.com
 
 **Used Languages :** 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" /><img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=pkc918&show_icons=true&theme=buefy&hide_border=true" alt="" /> 
+
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" /><img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=pkc918&show_icons=true&theme=buefy&hide_border=true" alt="" /> 
 
 
