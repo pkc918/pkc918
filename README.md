@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-![](C:\Users\Lenovo\Desktop\name.png)
+![](./assets/introduce.png)
 
 &nbsp;
 
@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="C:\Users\Lenovo\Desktop\git-header.svg" />
+<img width="55%" align="right" alt="Github" src="./assets/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/pkc918/data_structures_and_algorithms);
 - 💬 Ask me about anything, I am happy to help;
