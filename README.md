@@ -12,7 +12,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./assets/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/pkc918/VueVueVue);
+- 👨🏽‍💻 I love Open Source;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in computer science;
 
@@ -27,6 +27,7 @@
 - **Phone：** 18608645531
 - **E-mail：** 2489964425@qq.com
 - **掘金：** [陪我去看海](https://juejin.cn/user/1574156384076631)
+- **Twitter** [TreasurePPPP](https://twitter.com/TreasurePPPP)
 
 **Used Languages :** 
 
