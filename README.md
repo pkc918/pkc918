@@ -18,7 +18,6 @@
 
 
 <div>
-  <div>
 **📫 How to reach me:**
 
 - **WeChat：** pkc0918
@@ -27,7 +26,7 @@
 - **E-mail：** 2489964425@qq.com
 - **掘金：** [陪我去看海](https://juejin.cn/user/1574156384076631)
 - **Twitter** [TreasurePPPP](https://twitter.com/TreasurePPPP)
-  </div>
+
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" />
 </div>
 
