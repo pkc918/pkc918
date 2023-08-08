@@ -1,9 +1,4 @@
 <!-- Your title -->
-
-![](./assets/introduce.png)
-
-&nbsp;
-
 **Hi, I'm  PanKeChun, a Developer 🚀 from China.**
 
 <!-- Talking about you -->
