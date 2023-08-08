@@ -15,8 +15,10 @@
 
 <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code><code><img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go"/></code><code><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js"/></code><code><img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react"/></code><code><img src="https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs"/></code>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" />
 
+
+<div>
+  <div>
 **📫 How to reach me:**
 
 - **WeChat：** pkc0918
@@ -25,6 +27,10 @@
 - **E-mail：** 2489964425@qq.com
 - **掘金：** [陪我去看海](https://juejin.cn/user/1574156384076631)
 - **Twitter** [TreasurePPPP](https://twitter.com/TreasurePPPP)
+  </div>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" />
+</div>
+
 
 
 
