@@ -4,6 +4,7 @@
 **🍓 Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I love Open Source;
+- 💗 Learning Frontend and Golang brings me joy;
 - 💬 Ask me about anything, I am happy to help;
 
 **🌱 I’m currently learning**
