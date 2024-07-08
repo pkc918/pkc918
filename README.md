@@ -11,6 +11,12 @@
 
 <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code><code><img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go"/></code>
 
+**📫 How to reach me:**
+
+- **WeChat：** pkc0918
+- **QQ：** 2489964425
+- **E-mail：** xiaopan2000918@gmail.com
+
 
   
 
