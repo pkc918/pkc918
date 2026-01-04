@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc918&layout=compact&theme=buefy&hide_border=true" alt="" />
+<img align="right" width="40%" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=pkc918&hide=javascript,html,scss,css,less&layout=compact&theme=buefy&hide_border=true" alt="" />
 
 <!-- Talking about you -->
 **🍓 Talking about Personal Stuffs:**
